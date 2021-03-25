@@ -22,7 +22,7 @@ pkg-resources==0.0.0
 protobuf==3.11.2
 pycodestyle==2.5.0
 pyflakes==2.1.1
-PyYAML==5.3
+PyYAML==5.4
 scipy==1.4.1
 six==1.13.0
 tb-nightly==1.14.0a20190603
